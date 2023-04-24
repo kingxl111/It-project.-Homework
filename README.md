@@ -1,7 +1,7 @@
 # It-project.-Homework
 
 Gradient descent:
-
+https://colab.research.google.com/drive/10M-7leEZGIsEShKtuGrQtp1TGtxUMUKB?usp=sharing
 
 
 Desicion Tree:
